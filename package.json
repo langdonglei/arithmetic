@@ -1,0 +1,10 @@
+{
+  "name": "arithmetic",
+  "version": "1.0.0",
+  "dependencies": {
+    "pdfkit": "latest"
+  },
+  "devDependencies": {
+    "blob-stream": "^0.1.3"
+  }
+}
